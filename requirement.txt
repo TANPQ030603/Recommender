@@ -1,4 +1,1 @@
-nltk
-joblib
-streamlit
 spotipy
