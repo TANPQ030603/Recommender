@@ -1,0 +1,4 @@
+nltk
+joblib
+streamlit
+spotipy
